@@ -1,0 +1,28 @@
+.main {
+  background-color: var(--Secondary);
+  max-width: 1140px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 24px 0;
+}
+.container {
+  max-width: 95%;
+  margin: auto;
+}
+.header h2 {
+  color: #0e387a;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.body {
+  margin-top: 26px;
+}
+.footer button {
+  background-color: green;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 8px;
+}
+.footer button:first-child {
+  margin-right: 12px;
+}
